@@ -2,4 +2,4 @@
 
 Repositório com atividades comentadas sobre python.
 
-Ambientes Google Colab e Jupyrer
+Ambientes Google Colab e Jupyter
