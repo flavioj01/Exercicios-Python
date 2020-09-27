@@ -1,2 +1,3 @@
-# Exercicios Python
- Atividades comentadas sobre python
+# Exercícios de Python
+
+Repositório com atividades comentadas sobre python.
