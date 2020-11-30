@@ -4,4 +4,17 @@ Repositório com atividades comentadas sobre python.
 
 Ambientes Google Colab e Jupyter
 
-### oi
+### ferramentas para execução
+
+Linux
+
+```
+bash
+```
+
+Windows
+
+```
+CMD
+```
+
